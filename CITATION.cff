@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Rezaee"
+  given-names: "Mostafa Mohammad"
+- family-names: "Sabaeian"
+  given-names: "Mohammad"
+- family-names: "Motazedian"
+  given-names: "Alireza"
+- family-names: "Jalil-Abadi"
+  given-names: "Fatemeh Sedaghat"
+- family-names: "Askari"
+  given-names: "Hadi"
+- family-names: "Khazrk"
+  given-names: "Iman"
+title: "Thermally Induced Phase Mismatching in a Repetitively Gaussian Pulsed Pumping KTP Crystal: a Spatio-Temporal Treatment"
+version: 1.0.0
+doi: 10.1364/AO.54.004781
+date-released: 2015-05-20
+url: "https://doi.org/10.1364/AO.54.004781"
+repository-code: "https://github.com/Second-Harmonic-Generation/SHG-PW-G-Phase-Mismatch"
+abstract: "Thermally induced phase mismatching (TIPM) has been proven to be an influential issue in nonlinear phenomena. It occurs when refractive indices of crystal are changed due to temperature rise. In this work, the authors report on a modeling of spatiotemporal dependence of TIPM in a repetitively pulsed pumping KTP crystal. Gaussian profiles for both spatial and temporal dependences of pump beam were used to generate second-harmonic waves in a type II configuration. This modeling is of importance in predicting the nonlinear conversion efficiency of crystals when heat is loaded in the system. To this end, at first, an approach to solve the heat equation in a repetitively pulsed pumping system with consideration of the temperature dependence of thermal conductivity and realistic cooling mechanisms such as conduction, convection, and radiation, is presented. The TIPM is then calculated through the use of experimental thermal dispersion relations of KTP crystal. The results show how accumulative behaviors of temperature and TIPM (with its reverse sign) happen when the number of pulses is increased. Fluctuations accompanying temperature and TIPM were observed which were attributed to the offtime between successive pulses. Moreover, in this work, a numerical procedure for solving a repetitively pulsed pumped crystal is introduced. This procedure enables us to solve the problem with home-used computing machines."
+license: "MIT"
+keywords:
+- "thermally induced phase mismatching"
+- "TIPM"
+- "pulsed wave"
+- "KTP crystal"
+- "second harmonic generation"
+- "finite difference method"
+- "spatiotemporal treatment"
+- "Gaussian beam"
