@@ -62,8 +62,6 @@ Article title:
 
 This repository contains the **Toolkit for Modeling Thermally Induced Phase Mismatching in KTP Crystal: Pulsed-Wave Gaussian Second Harmonic Generation**, an open-source toolkit for modeling the spatiotemporal phase mismatching effects that occur in pulsed-wave second-harmonic generation (PW SHG), using KTP as a case study.
 
-### Toolkit Overview
-
 The toolkit provides comprehensive modules for modeling thermally induced phase mismatching (TIPM) in KTP crystals under repetitively pulsed Gaussian pumping, including spatiotemporal temperature field computation and phase mismatch calculations.
 
 The toolkit implements a numerical procedure for solving repetitively pulsed pumped crystals using finite difference methods, enabling computation on home-used computing machines. It supports parameterized scenario sweeps including temperature-dependent versus constant thermal conductivity, realistic cooling mechanisms (conduction, convection, and radiation), and heat-transfer coefficients spanning 6.5–2.0×10⁴ W·m⁻²·K⁻¹. The toolkit features compiled Fortran kernels with built-in benchmark reporting, reproducible pipelines with versioned code repository, and exportable datasets with spatiotemporal temperature and phase mismatch fields. It generates both radial and axial profiles for temperature and phase mismatch analysis.
