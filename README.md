@@ -98,7 +98,6 @@ Folder PATH listing
 +---src                           <-- Source code and implementation
 │       Code_SHG-PW-G-Phase-Mi…   <-- Main Fortran implementation
 │
-│       .Zone.Identifier          <-- Windows security zone identifier
 │       Article_SHG-PW-G-Phase…   <-- Main research article PDF
 │       CITATION.cff              <-- Citation metadata file
 │       LICENSE                   <-- Project license information
